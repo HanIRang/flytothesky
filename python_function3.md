@@ -5,7 +5,7 @@
     * elif와 else는 단독으로 사용이 되지 않습니다.
     * 예시(score에 값을 변경해보면서 money 값을 확인해주세요.)
     ```python
-    score = 81
+    score = 81            
     money = 0
 
     if score >= 90: # 만약에 조건이 참이라면
